@@ -1,3 +1,9 @@
+// The code you provided is a markdown document that describes a project on predicting the survival of
+// passengers aboard the Titanic using the Random Forest algorithm. It includes an introduction,
+// dataset description, code overview, model training, model evaluation, visualization, results, and
+// conclusion. The visualization section describes two graphs that show the survival rates of men and
+// women based on different factors. The results indicate the accuracy of the Random Forest model, and
+// the conclusion summarizes the effectiveness of the algorithm in predicting survival outcomes.
 # Titanic Survival Prediction with Random Forest
 
 ## Introduction
@@ -18,6 +24,13 @@ The dataset used in this project is the Titanic dataset, which contains various 
 5. **Model Evaluation:** The trained model's performance is evaluated using both training and testing datasets. Metrics such as accuracy, precision, recall, and F1-score are computed to assess the model's predictive performance. Additionally, a confusion matrix is generated to visualize the model's true positive, false positive, true negative, and false negative predictions.
 
 6. **Visualization:** The confusion matrix is plotted to provide a graphical representation of the model's performance in predicting survival outcomes. This visualization helps in understanding the model's strengths and weaknesses in classifying passengers as survivors or non-survivors.
+
+## Visualization
+
+From the first grpah i labbled men and women as 1 and 0 respectively and we can see that more than 500 women survived but nearly 350 men were able to survive.
+<br />
+And in the second graph we can see that women form the class p3 had a higher survival compared to other classes, but for men passengers from p1 class had a higher survival rate.
+
 
 ## Results
 The Random Forest model achieves a training accuracy of 97.9% and a testing accuracy of 81.1%. The model demonstrates a relatively high accuracy in predicting survival outcomes based on the provided features.
