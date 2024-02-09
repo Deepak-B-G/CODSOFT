@@ -37,6 +37,14 @@ The dataset used in this project contains information about movies, sourced from
 - **Model Training**: The model is trained on the dataset using the selected features.
 - **Model Evaluation**: Performance metrics such as mean squared error, mean absolute error, and R2 score are used to evaluate the model's performance.
 
+## Visualization
+
+From the first graph plotted for Most Number of Ratings Year-wise, we can see that maximum number of votes for casted in around 2010 for My Name Is Khan.
+<br />
+
+In the second graph depicting the distribution of genres based on the year of release, it's evident that there has been a consistent trend over the years where a larger proportion of movies belong to the Drama genre. This indicates that Drama-based movies have been consistently produced throughout the years.
+
+Upon closer inspection of the third graph illustrating the distribution of highly rated movies by genre over the years, it becomes apparent that Drama is indeed one of the most prevalent genres among highly rated movies. This suggests that Drama-based movies tend to receive higher ratings from viewers compared to other genres. Therefore, the popularity of Drama genre movies, as depicted in the second graph, aligns with the high ratings they receive, as observed in the third graph. This correlation implies that audiences generally enjoy Drama genre movies and are more likely to rate them highly.
 ## Results
 - The trained Linear Regression model achieves high accuracy in predicting movie ratings.
 - Performance metrics indicate low mean squared error and mean absolute error, and high R2 score, suggesting that the model provides reliable estimates of movie ratings.
