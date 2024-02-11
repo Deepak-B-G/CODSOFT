@@ -42,11 +42,10 @@ I would like to express my sincere gratitude to the team at CodSoft for providin
 
 ## Contact Information
 
-- For any further inquiries or feedback, please feel free to reach out to me via email at [your.email@example.com](mailto:your.email@example.com).
+- For any further inquiries or feedback, please feel free to reach out to me via email at [boppanadeepak1637@gmai.com](mailto:your.email@gmail.com).
 
 Once again, I am immensely grateful for the opportunity to be a part of CodSoft's Data Science internship program. I look forward to applying these learnings in future endeavors and contributing to the field of data science.
 
 Sincerely,
 
 Deepak B G
-boppanadeepak1637@gmai.com
