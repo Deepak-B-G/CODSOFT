@@ -1,4 +1,4 @@
-# Iris Dataset Analysis and Agglomerative Hierarchical Clustering
+# IRIS FLOWER CLASSIFICATION
 
 This repository contains Python code for analyzing the famous Iris dataset using various data visualization techniques and applying Agglomerative Hierarchical Clustering algorithm for clustering the data.
 

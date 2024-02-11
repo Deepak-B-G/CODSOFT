@@ -1,4 +1,4 @@
-# Advertising Sales Prediction using Linear Regression
+# SALES PREDICTION 
 
 This project aims to predict sales based on advertising spending using the Linear Regression machine learning algorithm. The dataset used contains information about advertising spending on TV, Radio, and Newspaper, along with corresponding sales figures.
 

@@ -1,4 +1,4 @@
-# Movie Rating Prediction README
+# MOVIE RATING PREDICTION
 
 ## Introduction
 This project aims to predict the rating of movies based on various features such as the year of release, number of votes, duration, genre, director, and actors. Predicting movie ratings can provide valuable insights for movie enthusiasts, filmmakers, and production companies. The prediction is made using machine learning techniques, specifically a Linear Regression model, trained on a dataset of movies.

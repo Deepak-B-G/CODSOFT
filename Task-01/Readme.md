@@ -1,10 +1,4 @@
-// The code you provided is a markdown document that describes a project on predicting the survival of
-// passengers aboard the Titanic using the Random Forest algorithm. It includes an introduction,
-// dataset description, code overview, model training, model evaluation, visualization, results, and
-// conclusion. The visualization section describes two graphs that show the survival rates of men and
-// women based on different factors. The results indicate the accuracy of the Random Forest model, and
-// the conclusion summarizes the effectiveness of the algorithm in predicting survival outcomes.
-# Titanic Survival Prediction with Random Forest
+# TITANIC SURVIVAL PREDICTION
 
 ## Introduction
 This project utilizes machine learning techniques, particularly the Random Forest algorithm, to predict the survival of passengers aboard the Titanic. The sinking of the Titanic is one of the most infamous shipwrecks in history, and this dataset provides valuable information for exploring patterns of survival.
@@ -14,7 +8,7 @@ The dataset used in this project is the Titanic dataset, which contains various 
 
 ## Code Overview
 1. **Importing Libraries:** Necessary libraries such as NumPy, Pandas, Matplotlib, Seaborn, and scikit-learn are imported for data manipulation, visualization, and machine learning modeling.
-   
+
 2. **Exploratory Data Analysis (EDA):** The dataset is loaded and explored to understand its structure, data types, and summary statistics. Exploratory visualizations are created to analyze the distribution of variables, identify correlations, and gain insights into potential relationships between features and survival.
 
 3. **Data Preprocessing:** Data preprocessing steps are performed to handle missing values and encode categorical variables. Missing values in the 'Age' column are imputed using the median age, and missing values in the 'Embarked' column are filled with the most frequent value. Categorical variables like 'Sex' and 'Embarked' are converted into numerical representations. Unnecessary columns such as 'PassengerId', 'Name', 'Cabin', and 'Ticket' are dropped from the dataset to improve model performance.
